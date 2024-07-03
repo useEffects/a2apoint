@@ -1,4 +1,4 @@
-<img src="./assets/images/cover.png" />
+<img style="width: 100%" src="./assets/images/cover.png" />
 
 # Project Report
 

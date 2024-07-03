@@ -44,7 +44,7 @@
 
 ## Packages
 - ## core-lib
-  - The actual codebase powering both next.js and expo applications in the `app` folder. Written using **react native** and transpiled to react native web when used in next.js
+  - The actual codebase powering both next.js and expo applications in the `apps` folder. Written using **react native** and transpiled to react native web when used in next.js
   - Amazing code sharing, we export modules from this package and import it in both the web and mobile apps.
   - ## Key design choices
     - CSS: [NativeWind](https://github.com/nativewind/nativewind)
