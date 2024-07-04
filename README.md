@@ -1,5 +1,3 @@
-<!-- <img src="./assets/images/cover.png" /> -->
-
 # Project Report
 
 ## Table of Contents
