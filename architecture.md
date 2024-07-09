@@ -1,5 +1,5 @@
 # Architecture
-<img src="./assets/architecture.jpg">
+<img src="./assets/architecture.jpg" />
 
 ## Tooling
 | Tooling     | Tools used                                             |
