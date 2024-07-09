@@ -1,3 +1,10 @@
+---
+title: "A2A Point project report"
+cover: assets/images/cover.png
+tags: universal apps, design choices
+read: 5 mins
+---
+
 <img src="assets/images/cover.png" />
 In the dynamic world of real estate, efficiency, transparency, and seamless collaboration are paramount. Introducing A2A POINT, a revolutionary portal designed exclusively for real estate agents, redefining the landscape of property transactions and deal management. <br />
 This project report will outline the objectives, methodologies, and outcomes of the A2A Point project. It will cover the technical architecture, tools used, and the strategies implemented to overcome obstacles. Additionally, the report will highlight key learnings and recommendations for future projects of similar nature.
