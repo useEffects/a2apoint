@@ -16,4 +16,4 @@ Recently, I've formed a team with [Pavithra VS](https://pavithra.tech) to build 
 This blog would cover three key aspects in this project.
 - [UI](./ui.md)
 - [Data fetching](./data-fetching.md)
-- [Targeting native libraries](./native.md)
+- [Targeting native libraries](./native-libraries.md)

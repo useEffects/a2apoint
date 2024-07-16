@@ -1,14 +1,14 @@
 # Seamless UI Across Platforms: React, Next.js, and Expo Strategies
 
 User Interface (UI) design plays a pivotal role in crafting user experiences that are intuitive, visually appealing, and functional. Take a look at [instagram](https://instagram.com) for example,
-<img src="../assets/images/ui-comparison.png" />
+<img src="https://raw.githubusercontent.com/useEffects/a2apoint/master/assets/images/ui-comparison.png" />
 I could not find if instagram uses the same or similar component for their web and app version. Having a similar design for both a mobile app and a website helps save costs and makes it easier to maintain. It means using the same layout and style on both platforms, which makes it simpler for users since they already know how everything works. You can read more [here](https://qr.ae/psjWud)
 
 ## Methodology
 
 We leverage the flexibility of **React as a library**, not a framework. Get comfortable with monorepo frameworks such as `turborepo`. The `core lib` package contains all the shared UI components of the application.
 
-![UI Code Splitting](../assets/images/ui-codesplitting.jpg)
+![UI Code Splitting](https://raw.githubusercontent.com/useEffects/a2apoint/master/assets/images/ui-codesplitting.jpg)
 
 Consider screens as the fundamental building blocks of the application. Each platform implements how these screens are displayed. The platform acts as the skeleton, ready to render screens as needed. On iOS and Android, these shared screens are implemented using stacks, tabs, and drawers from React Navigation, giving you full control over navigation and animations. For a React Native developer, this is a familiar approach. Meanwhile, on Next.js, the shared screen components are rendered inside the app folder as usual.
 
