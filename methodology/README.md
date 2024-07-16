@@ -11,7 +11,7 @@ The React Native team advocates for a single codebase solution for Android and i
 
 <hr/>
 
-Recently, I've formed a team with [Pavithra VS](https://pavithra.tech) to build an exciting project: [A2A Point](https://a2apoint.com). You can find the full project report [here](). In this post, I will share our team's design choices in building the web app and mobile apps from a single codebase, adhering as much as possible to the DIY principle. Importantly, we've ensured that this approach does not compromise the unique benefits offered by each tech stack, preserving their respective advantages.
+Recently, I've formed a team with [Pavithra VS](https://pavithra.tech) to build an exciting project: [A2A Point](https://a2apoint.com). You can find the full project report [here](https://blogs.codingclubgct.in/useEffects/a2apoint-project-report). In this post, I will share our team's design choices in building the web app and mobile apps from a single codebase, adhering as much as possible to the DIY principle. Importantly, we've ensured that this approach does not compromise the unique benefits offered by each tech stack, preserving their respective advantages.
 
 This blog would cover three key aspects in this project.
 - [UI](./1-UI.md)
