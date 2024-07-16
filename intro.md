@@ -21,6 +21,6 @@ operations.
 
 # Whitepaper
 Click [here](./assets/whitepaper.pdf) to view the whitepaper. <br />
-> This white paper serves as a comprehensive guide to A2A POINT, offering an in-depth exploration of its features, benefits, and the unique value it brings to the real estate industry. As we delve into the core components of the application, you will gain a profound understanding of how our portal stands as a catalyst for transforming the way real estate transactions are conducted.^
+_This white paper serves as a comprehensive guide to A2A POINT, offering an in-depth exploration of its features, benefits, and the unique value it brings to the real estate industry. As we delve into the core components of the application, you will gain a profound understanding of how our portal stands as a catalyst for transforming the way real estate transactions are conducted._
 
 
